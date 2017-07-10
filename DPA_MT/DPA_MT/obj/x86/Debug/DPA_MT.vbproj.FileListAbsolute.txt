@@ -1,0 +1,24 @@
+C:\Users\Gaming\AppData\Local\Temporary Projects\DPA_MT\bin\Debug\DPA_MT.exe
+C:\Users\Gaming\AppData\Local\Temporary Projects\DPA_MT\bin\Debug\DPA_MT.pdb
+C:\Users\Gaming\AppData\Local\Temporary Projects\DPA_MT\bin\Debug\DPA_MT.xml
+C:\Users\Gaming\AppData\Local\Temporary Projects\DPA_MT\obj\x86\Debug\DPA_MT.Menu.resources
+C:\Users\Gaming\AppData\Local\Temporary Projects\DPA_MT\obj\x86\Debug\DPA_MT.Resources.resources
+C:\Users\Gaming\AppData\Local\Temporary Projects\DPA_MT\obj\x86\Debug\DPA_MT.vbproj.GenerateResource.Cache
+C:\Users\Gaming\AppData\Local\Temporary Projects\DPA_MT\obj\x86\Debug\DPA_MT.exe
+C:\Users\Gaming\AppData\Local\Temporary Projects\DPA_MT\obj\x86\Debug\DPA_MT.xml
+C:\Users\Gaming\AppData\Local\Temporary Projects\DPA_MT\obj\x86\Debug\DPA_MT.pdb
+C:\Users\Gaming\AppData\Local\Temporary Projects\DPA_MT\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\Gaming\AppData\Local\Temporary Projects\DPA_MT\obj\x86\Debug\DPA_MT.vbproj.ResolveComReference.cache
+C:\Users\Gaming\AppData\Local\Temporary Projects\DPA_MT\obj\x86\Debug\DPA_MT.Form1.resources
+d:\Users\Gaming\documents\visual studio 2010\Projects\DPA_MT\DPA_MT\obj\x86\Debug\Interop.ADOX.dll
+d:\Users\Gaming\documents\visual studio 2010\Projects\DPA_MT\DPA_MT\obj\x86\Debug\DPA_MT.vbproj.ResolveComReference.cache
+d:\Users\Gaming\documents\visual studio 2010\Projects\DPA_MT\DPA_MT\obj\x86\Debug\DPA_MT.exe
+d:\Users\Gaming\documents\visual studio 2010\Projects\DPA_MT\DPA_MT\obj\x86\Debug\DPA_MT.xml
+d:\Users\Gaming\documents\visual studio 2010\Projects\DPA_MT\DPA_MT\obj\x86\Debug\DPA_MT.pdb
+d:\Users\Gaming\documents\visual studio 2010\Projects\DPA_MT\DPA_MT\bin\Debug\DPA_MT.exe
+d:\Users\Gaming\documents\visual studio 2010\Projects\DPA_MT\DPA_MT\bin\Debug\DPA_MT.pdb
+d:\Users\Gaming\documents\visual studio 2010\Projects\DPA_MT\DPA_MT\bin\Debug\DPA_MT.xml
+d:\Users\Gaming\documents\visual studio 2010\Projects\DPA_MT\DPA_MT\obj\x86\Debug\DPA_MT.Form1.resources
+d:\Users\Gaming\documents\visual studio 2010\Projects\DPA_MT\DPA_MT\obj\x86\Debug\DPA_MT.Menu.resources
+d:\Users\Gaming\documents\visual studio 2010\Projects\DPA_MT\DPA_MT\obj\x86\Debug\DPA_MT.Resources.resources
+d:\Users\Gaming\documents\visual studio 2010\Projects\DPA_MT\DPA_MT\obj\x86\Debug\DPA_MT.vbproj.GenerateResource.Cache
