@@ -1,0 +1,6 @@
+StockID,Description,InStock,ReOlevel,Ordered,Quantity,Days ago
+'004,Ruined,10,12,Yes,50,1910
+'005,I want to breathe,2,5,Yes,5,1910
+
+,Total value of stock held: £,326.5
+,Total value of stock on order: £,130

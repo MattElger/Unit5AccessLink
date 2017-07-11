@@ -1,0 +1,35 @@
+\\bassstr\pupilhome$\00elgerm\documents\visual studio 2010\Projects\DPA_ME\DPA_ME\bin\Debug\DPA_ME.exe
+\\bassstr\pupilhome$\00elgerm\documents\visual studio 2010\Projects\DPA_ME\DPA_ME\bin\Debug\DPA_ME.pdb
+\\bassstr\pupilhome$\00elgerm\documents\visual studio 2010\Projects\DPA_ME\DPA_ME\bin\Debug\DPA_ME.xml
+\\bassstr\pupilhome$\00elgerm\documents\visual studio 2010\Projects\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.Form1.resources
+\\bassstr\pupilhome$\00elgerm\documents\visual studio 2010\Projects\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.Resources.resources
+\\bassstr\pupilhome$\00elgerm\documents\visual studio 2010\Projects\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.vbproj.GenerateResource.Cache
+\\bassstr\pupilhome$\00elgerm\documents\visual studio 2010\Projects\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.exe
+\\bassstr\pupilhome$\00elgerm\documents\visual studio 2010\Projects\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.xml
+\\bassstr\pupilhome$\00elgerm\documents\visual studio 2010\Projects\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.pdb
+\\bassstr\pupilhome$\00elgerm\documents\visual studio 2010\Projects\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.Form2.resources
+\\bassstr\pupilhome$\00elgerm\documents\visual studio 2010\Projects\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.Menu.resources
+\\bassstr\pupilhome$\00elgerm\documents\visual studio 2010\Projects\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.Form3.resources
+\\bassstr\pupilhome$\00elgerm\Documents\Visual Studio 2010\Projects\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.Form4.resources
+\\bassstr\pupilhome$\00elgerm\documents\visual studio 2010\Projects\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.Form5.resources
+\\bassstr\pupilhome$\00elgerm\documents\visual studio 2010\Projects\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.Form6.resources
+\\bassstr\pupilhome$\00elgerm\Documents\Visual Studio 2010\Projects\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.Form7.resources
+\\bassstr\pupilhome$\00elgerm\Documents\Visual Studio 2010\Projects\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.vbproj.ResolveComReference.cache
+C:\Users\Gaming\Desktop\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.vbproj.ResolveComReference.cache
+C:\Users\Gaming\Desktop\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.exe
+C:\Users\Gaming\Desktop\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.xml
+C:\Users\Gaming\Desktop\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.pdb
+C:\Users\Gaming\Desktop\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.Form1.resources
+C:\Users\Gaming\Desktop\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.Form2.resources
+C:\Users\Gaming\Desktop\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.Form3.resources
+C:\Users\Gaming\Desktop\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.Form4.resources
+C:\Users\Gaming\Desktop\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.Form5.resources
+C:\Users\Gaming\Desktop\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.Form6.resources
+C:\Users\Gaming\Desktop\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.Form7.resources
+C:\Users\Gaming\Desktop\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.Menu.resources
+C:\Users\Gaming\Desktop\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.Resources.resources
+C:\Users\Gaming\Desktop\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.vbproj.GenerateResource.Cache
+D:\COMPLUTER SCIENCE\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.vbproj.ResolveComReference.cache
+D:\COMPLUTER SCIENCE\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.exe
+D:\COMPLUTER SCIENCE\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.xml
+D:\COMPLUTER SCIENCE\DPA_ME\DPA_ME\obj\x86\Debug\DPA_ME.pdb

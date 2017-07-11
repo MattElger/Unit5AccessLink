@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Items>
+    <StockID>001</StockID>
+    <Description>Black Pen</Description>
+    <Price>0.3</Price>
+    <QuantityInStock>100</QuantityInStock>
+    <ReorderLevel>50</ReorderLevel>
+    <ReorderQuantity>50</ReorderQuantity>
+    <DateLastOrder>13/04/12</DateLastOrder>
+    <WhetherReceived>true</WhetherReceived>
+  </Items>
+  <Items>
+    <StockID>002</StockID>
+    <Description>Red Pen</Description>
+    <Price>1</Price>
+    <QuantityInStock>150</QuantityInStock>
+    <ReorderLevel>10</ReorderLevel>
+    <ReorderQuantity>200</ReorderQuantity>
+    <DateLastOrder>13/04/12</DateLastOrder>
+    <WhetherReceived>true</WhetherReceived>
+  </Items>
+  <Items>
+    <StockID>003</StockID>
+    <Description>Yellow Pen</Description>
+    <Price>20.10</Price>
+    <QuantityInStock>5</QuantityInStock>
+    <ReorderLevel>1</ReorderLevel>
+    <ReorderQuantity>4</ReorderQuantity>
+    <DateLastOrder>13/04/12</DateLastOrder>
+    <WhetherReceived>True</WhetherReceived>
+  </Items>
+  <Items>
+    <StockID>004</StockID>
+    <Description>Ruined</Description>
+    <Price>0.6</Price>
+    <QuantityInStock>10</QuantityInStock>
+    <ReorderLevel>12</ReorderLevel>
+    <ReorderQuantity>50</ReorderQuantity>
+    <DateLastOrder>13/04/12</DateLastOrder>
+    <WhetherReceived>true</WhetherReceived>
+  </Items>
+  <Items>
+    <StockID>005</StockID>
+    <Description>I want to breathe</Description>
+    <Price>20</Price>
+    <QuantityInStock>2</QuantityInStock>
+    <ReorderLevel>5</ReorderLevel>
+    <ReorderQuantity>5</ReorderQuantity>
+    <DateLastOrder>13/04/12</DateLastOrder>
+    <WhetherReceived>true</WhetherReceived>
+  </Items>
+</DocumentElement>
