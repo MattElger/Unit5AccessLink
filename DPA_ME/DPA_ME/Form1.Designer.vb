@@ -43,6 +43,7 @@ Partial Class Form1
         Me.Label7 = New System.Windows.Forms.Label()
         Me.Label8 = New System.Windows.Forms.Label()
         Me.ListBox1 = New System.Windows.Forms.ListBox()
+        Me.btnReport = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'txtStockID
@@ -132,7 +133,7 @@ Partial Class Form1
         'btnRemove
         '
         Me.btnRemove.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnRemove.Location = New System.Drawing.Point(437, 137)
+        Me.btnRemove.Location = New System.Drawing.Point(437, 119)
         Me.btnRemove.Name = "btnRemove"
         Me.btnRemove.Size = New System.Drawing.Size(92, 27)
         Me.btnRemove.TabIndex = 10
@@ -142,7 +143,7 @@ Partial Class Form1
         'btnSave
         '
         Me.btnSave.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnSave.Location = New System.Drawing.Point(437, 189)
+        Me.btnSave.Location = New System.Drawing.Point(437, 152)
         Me.btnSave.Name = "btnSave"
         Me.btnSave.Size = New System.Drawing.Size(92, 27)
         Me.btnSave.TabIndex = 11
@@ -239,11 +240,22 @@ Partial Class Form1
         Me.ListBox1.Size = New System.Drawing.Size(518, 310)
         Me.ListBox1.TabIndex = 20
         '
+        'btnReport
+        '
+        Me.btnReport.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.btnReport.Location = New System.Drawing.Point(437, 191)
+        Me.btnReport.Name = "btnReport"
+        Me.btnReport.Size = New System.Drawing.Size(92, 27)
+        Me.btnReport.TabIndex = 21
+        Me.btnReport.Text = "Report"
+        Me.btnReport.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(560, 556)
+        Me.Controls.Add(Me.btnReport)
         Me.Controls.Add(Me.ListBox1)
         Me.Controls.Add(Me.Label8)
         Me.Controls.Add(Me.Label7)
@@ -292,5 +304,6 @@ Partial Class Form1
     Friend WithEvents Label7 As System.Windows.Forms.Label
     Friend WithEvents Label8 As System.Windows.Forms.Label
     Friend WithEvents ListBox1 As System.Windows.Forms.ListBox
+    Friend WithEvents btnReport As System.Windows.Forms.Button
 
 End Class

@@ -127,4 +127,67 @@ Public Class Form1
         txtDateLastOrder.Clear()
         txtWhetherReceived.Clear()
     End Sub
+
+    Private Sub btnReport_Click(sender As System.Object, e As System.EventArgs) Handles btnReport.Click
+        'Variables for separate fields
+        Dim strStockID As String
+        Dim strDescription As String
+        Dim strPrice As String
+        Dim strQuantityInStock As String
+        Dim strReorderLevel As String
+        Dim strReorderQuantity As String
+        Dim strDateLastOrder As String
+        Dim strWhetherReceived As String
+
+        'Line to write to file
+        Dim strLine As String = ""
+        'Stock value variables
+        Dim sngTotalHeld As Single = 0
+        Dim sngTotalOnOrder As Single = 0
+
+        'Open disk file stream for writing
+        Dim SW As New StreamWriter("StockReport.txt")
+
+        'For all the lines in the ListBox
+        For Each Item In ListBox1.Items
+            'Get separate fields from record
+            strStockID = Item.Substring(0, intStockIDLen)
+            strDescription = Item.Substring(intStockIDLen, intDescriptionLen)
+            strPrice = Item.Substring(intStockIDLen + intDescriptionLen, intPriceLen)
+            strQuantityInStock = Item.Substring(intStockIDLen + intDescriptionLen + intPriceLen, intQuantityInStockLen)
+            strReorderLevel = Item.Substring(intStockIDLen + intDescriptionLen + intPriceLen + intQuantityInStockLen, intReorderLevelLen)
+            strReorderQuantity = Item.Substring(intStockIDLen + intDescriptionLen + intPriceLen + intQuantityInStockLen + intReorderLevelLen, intReorderQuantityLen)
+            strDateLastOrder = Item.Substring(intStockIDLen + intDescriptionLen + intPriceLen + intQuantityInStockLen + intReorderLevelLen + intReorderQuantityLen, intDateLastOrderLen)
+            strWhetherReceived = Item.Substring(intStockIDLen + intDescriptionLen + intPriceLen + intQuantityInStockLen + intReorderLevelLen + intReorderQuantityLen + intDateLastOrderLen)
+
+            'Update total value of stock held
+            sngTotalHeld += CSng(strPrice) * CSng(strQuantityInStock)
+
+            'If stock level too low
+            If CInt(strQuantityInStock) <= CInt(strReorderLevel) Then
+                'Build output line
+                strLine = strStockID & " " & strDescription
+                If strWhetherReceived = "True" Then
+                    strLine &= " Not ordered yet"
+
+                Else
+                    strLine &= " Order for " & strReorderQuantity & " sent " & DateDiff(DateInterval.Day, CDate(strDateLastOrder), Today).ToString & " days ago"
+                    'Update total of value on order
+
+                    sngTotalOnOrder += CSng(strPrice) * CInt(strReorderQuantity)
+
+                End If
+                'Add new Item line to file
+                SW.WriteLine(strLine)
+            End If
+        Next
+        'Add summary information
+        SW.WriteLine("Total value of stock held: £" & sngTotalHeld.ToString)
+        SW.WriteLine("Total value of stock on order: £" & sngTotalOnOrder.ToString)
+        'Close stream
+        SW.Close()
+      
+        'Open text file in Notepad
+        System.Diagnostics.Process.Start("StockReport.txt")
+    End Sub
 End Class
